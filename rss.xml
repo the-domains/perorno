@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Perorno]]></title>
+        <description><![CDATA[Perorno]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 11:06:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Pushing the boundaries of traditional jewellery design to offer pieces that are unique, exciting and diverse</p>]]></description>
+            <link>undefined6c7cd84e-7799-4763-b77e-c3e5cfaf141f/index.html</link>
+            <guid isPermaLink="false">6c7cd84e-7799-4763-b77e-c3e5cfaf141f</guid>
+            <pubDate>Sat, 06 Feb 2016 11:06:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
