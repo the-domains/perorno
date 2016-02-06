@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Perorno]]></title>
         <description><![CDATA[Perorno]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/perorno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 11:06:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 11:12:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/perorno/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Pushing the boundaries of traditional jewellery design</p>]]></description>
+            <link>https://thegrid.ai/perorno/40f56fe8-3e15-4d33-afbb-8753b1143f96/index.html</link>
+            <guid isPermaLink="false">40f56fe8-3e15-4d33-afbb-8753b1143f96</guid>
+            <pubDate>Sat, 06 Feb 2016 11:11:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Pushing the boundaries of traditional jewellery design to offer pieces that are unique, exciting and diverse</p>]]></description>
-            <link>undefined6c7cd84e-7799-4763-b77e-c3e5cfaf141f/index.html</link>
+            <link>https://thegrid.ai/perorno/6c7cd84e-7799-4763-b77e-c3e5cfaf141f/index.html</link>
             <guid isPermaLink="false">6c7cd84e-7799-4763-b77e-c3e5cfaf141f</guid>
             <pubDate>Sat, 06 Feb 2016 11:06:03 GMT</pubDate>
         </item>
